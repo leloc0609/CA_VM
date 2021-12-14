@@ -1,0 +1,3 @@
+sll s1 s0 s3
+add t1 t2 
+sub t2
